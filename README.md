@@ -63,4 +63,3 @@ que promove eficiência e a sustentabilidade da agricultura familiar, oferecendo
 ## Licença
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
-
