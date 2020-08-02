@@ -64,10 +64,3 @@ que promove eficiência e a sustentabilidade da agricultura familiar, oferecendo
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
 
-##Fontes
-Nosso Data Sets veio de informações que raspamos do site do INMET(Instituto Nacional de Meterologia) e do site AgroLink
-http://sisdagro.inmet.gov.br/sisdagro/app/monitoramento/bhc
-https://www.agrolink.com.br/cotacoes/historico/rs/arroz-irrigado-em-casca-sc-50kg
-
-Para mais informações sobre regreções 
-https://realpython.com/linear-regression-in-python/
