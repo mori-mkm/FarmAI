@@ -30,7 +30,7 @@ que promove eficiência e a sustentabilidade da agricultura familiar, oferecendo
 
 ### Testemunhos
 
-> [**“Bah! Me ajudou demais, consegui aumentar por demais meus ganhos”**](https://www.producthunt.com/tech/hackathon-starter#comment-224732)<br>
+> **“Bah! Me ajudou demais, consegui aumentar por demais meus ganhos”**<br>
 > — Seu João
 
 
@@ -55,7 +55,7 @@ que promove eficiência e a sustentabilidade da agricultura familiar, oferecendo
 ## Demonstração
 
 <h1 align="center">
-  <img src="https://i.imgur.com/lWyH1vO.png" alt="Home Page" border="0">
+  <img src="https://i.imgur.com/zfidyDs.jpg" alt="Home Page" border="0">
 </h1>
 
 
