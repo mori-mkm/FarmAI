@@ -22,10 +22,7 @@ A partir da identificação dos [modelos agrometeorológicos](https://github.com
 Com isso vamos relacionar os preços médios de saca de arroz irrigado em saca de 50kg no período de acordo com o período selecionado em Alegrete/RS.
  
 
-
-
-
-##### Recursos usados
+#### Recursos usados
 - [Figma](https://www.figma.com/)
 - [Python](https://www.python.org/)
     - [Pandas](https://pandas.pydata.org/)
@@ -37,26 +34,26 @@ Com isso vamos relacionar os preços médios de saca de arroz irrigado em saca d
 ### Testemunhos
 
 > **“Bah! Me ajudou demais, consegui aumentar por demais meus ganhos”**<br>
-> — Seu João
+> — Seu João | Agricultor
+
+> **“O preço do arroz deu uma diminuida boa, né? Até a qualidade está melhor!”**<br>
+> — Dona Maria | Dona de Casa
+
+> **“Com mais arroz estou conseguindo fazer essa rota bem melhor.”**<br>
+> — Marcelo | Caminhoneiro
 
 
 
 
-### Demonstração
+### Protótipo
 
 O [FarmIA](https://www.figma.com/proto/PfV39FKHG4iQ0O2uHcD0g3/FarmIA?node-id=75%3A8&scaling=scale-down) é uma plataforma 
 que promove eficiência e a sustentabilidade da agricultura familiar, oferecendo soluções convincentes, possibilitadas por análise de dados e inteligência artificial para facilitar a concessão de crédito.
 
 
-![](https://imgur.com/Vrnkh66)
-![](https://imgur.com/fe9NRg1)
-<h1 align="center">
-  <img src="https://imgur.com/Vrnkh66" alt="" border="0">
-</h1>
+![](https://imgur.com/Vrnkh66.png)
 
-<h1 align="center">
-  <img src="https://imgur.com/fe9NRg1" alt=" " border="0">
-</h1>
+![](https://imgur.com/fe9NRg1.png)
 
 ### Time
 
@@ -64,7 +61,7 @@ que promove eficiência e a sustentabilidade da agricultura familiar, oferecendo
   <tr>
     <td align="center"><a href="https://mrncstt.github.io/posts/"><img src="https://i.imgur.com/UMWYzzG.jpg" width="100px;" alt=""/><br /><sub><b>Mariana Costa</b></sub></a><br /><a href="marianacosta.data@gmail.com" title="Site">💻</a> <a href="https://mrncstt.github.io/" title="Email">📧</a> </td>
     <td align="center"><a href="https://www.linkedin.com/in/ana-daniele-feula-842219140/"><img src="https://i.imgur.com/Ecu6m0w.jpg" width="100px;" alt=""/><br /><sub><b> Ana Feula</b></sub></a><br /><a href="ananidesigner@gmail.com" title="Site">💻</a> <a href="https://www.linkedin.com/in/ana-daniele-feula-842219140/" title="Email">📧</a> </td>
-    <td align="center"><a href="https://github.com/017mori"><img src="https://i.imgur.com/deKXIaJ.jpg" width="100px;" alt=""/><br /><sub><b> Matheus Mori</b></sub></a><br /><a href="https://github.com/017mori" title="Site">💻</a> <a href="https://github.com/017mori" title="Email">📧</a> </td>
+    <td align="center"><a href="https://www.linkedin.com/in/matheus-k-mori-bb2b49a8/"><img src="https://i.imgur.com/deKXIaJ.jpg" width="100px;" alt=""/><br /><sub><b> Matheus Mori</b></sub></a><br /><a href="https://github.com/017mori" title="Site">💻</a> <a href="https://github.com/017mori" title="Email">📧</a> </td>
      <td align="center"><a href="https://www.linkedin.com/in/wagner-mariano-msc-17a9bb56/"><img src="https://i.imgur.com/Nz1O55U.jpg" width="100px;" alt=""/><br /><sub><b> Wagner Mariano</b></sub></a><br /><a href="https://www.linkedin.com/in/wagner-mariano-msc-17a9bb56/" title="Site">💻</a> <a href="https://www.linkedin.com/in/wagner-mariano-msc-17a9bb56/" title="Email">📧</a> </td>
      <td align="center"><a href="https://github.com/iulihardt/"><img src="https://i.imgur.com/KNytPG4.png" width="100px;" alt=""/><br /><sub><b> Iuli Hardt</b></sub></a><br /><a href="https://www.linkedin.com/in/iuli-hardt-634190119/" title="Site">💻</a> <a href="https://www.linkedin.com/in/iuli-hardt-634190119/" title="Email">📧</a> </td>
 </table>
