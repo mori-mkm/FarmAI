@@ -2,21 +2,22 @@
 
 
 
+
 <h1 align="center">
 <br />
-  <img src="https://i.imgur.com/glg88Tw.png" alt="logo" border="0">
+  <img src="https://i.imgur.com/MmtWbR4.png" alt="logo" border="0">
 <br />
 <br />
 
 </h1>
 
-#### FarmIA
+#### FarmIA - [Primeiro lugar no Hackathon Shawee - Santander](https://www.datachallenge.com.br/resultado/)
 
 
- A [**FarmIA**](https://www.figma.com/proto/PfV39FKHG4iQ0O2uHcD0g3/FarmIA?node-id=75%3A8&scaling=scale-down) veio como o objetivo de ajudar na base da cadeia de alimentos com foco no setor agrícola de plantio de arroz. 
+   A [**FarmIA**](https://www.figma.com/proto/PfV39FKHG4iQ0O2uHcD0g3/FarmIA?node-id=75%3A8&scaling=scale-down) veio como o objetivo de ajudar na base da cadeia de alimentos com foco no setor agrícola de plantio de arroz. 
 Apesar de existirem inúmeras ferramentas para o desenvolvimento consciente de um cultivo, essas não fornecem o suporte às decisões sobre planos ótimos de cultivo e ocupação de área para produção econômica com base centralizada de informações sobre índices pluviométricos, temperatura e solo de acordo com o período de plantio.
 
-A plataforma possibilita, também, a escolha correta da época de plantio, para que a cultura não fique exposta a déficits hídricos em momentos cruciais à obtenção de uma boa produção. 
+   A plataforma possibilita, também, a escolha correta da época de plantio, para que a cultura não fique exposta a déficits hídricos em momentos cruciais à obtenção de uma boa produção. 
 A partir da identificação dos [modelos agrometeorológicos](https://github.com/017mori/FarmAI/blob/master/Analises.ipynb) que melhor descrevem o comportamento da cultura do arroz irrigado em uma determinada região, é possível inserir tais modelos em programas de simulação de produtividade, prever o impacto de mudanças climáticas sobre esta e, caso os eventos meteorológicos se comportem igual à média dos anos, indicar a melhor época de plantio para cada região. 
 
 Com isso vamos relacionar os preços médios de saca de arroz irrigado em saca de 50kg no período de acordo com o período selecionado em Alegrete/RS.
